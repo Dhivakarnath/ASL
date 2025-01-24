@@ -10,3 +10,4 @@ python-engineio
 fastapi[all]
 mediapipe
 uvicorn
+tf_keras
