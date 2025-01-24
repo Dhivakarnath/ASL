@@ -9,3 +9,4 @@ pyttsx3
 python-engineio
 fastapi[all]
 mediapipe
+uvicorn
