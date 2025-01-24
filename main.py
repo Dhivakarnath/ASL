@@ -17,7 +17,7 @@ hands = mpHands.Hands(max_num_hands=1, min_detection_confidence=0.7)
 mpDraw = mp.solutions.drawing_utils
 
 # Load the gesture recognizer model
-model = k3.models.load_model(r'D:\Sign_language_mediapipe\mp_hand_gesture')
+model = k3.models.load_model(r'Sign_language_mediapipe\mp_hand_gesture')
 
 # Load class names
 with open('gesture.names', 'r') as f:
