@@ -1,0 +1,10 @@
+Flask
+torch
+ultralytics
+opencv-python
+flask-cors
+numpy
+pyttsx3
+python-engineio
+python-socketio[asyncio_server] fastapi-socketio
+mediapipe
